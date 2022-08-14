@@ -1,1 +1,1 @@
-# R-for-bioinformatics
+# R-for-Bioinformatics
